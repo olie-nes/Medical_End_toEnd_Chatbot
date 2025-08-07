@@ -1,2 +1,2 @@
-# Medical_End_toEnd_Chatbot
-Youtube example medical chatbot using LLM, Langchain, Pinecone, Flask, Github, AWS cloud
+## Medical_End_toEnd_Chatbot
+Basic working model of the medical chatbot using csv and regex
