@@ -1,0 +1,3 @@
+pandas
+colorama       # for colored CLI interface (optional enhancement)
+flask          # for optional web-based UI
